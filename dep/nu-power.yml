@@ -1,0 +1,26 @@
+name: nu-power
+
+channels:
+- conda-forge
+
+dependencies:
+- beautifulsoup4
+- healpy
+- jupyterlab
+- matplotlib
+- numpy
+- pandas
+- papermill
+- pillow
+- pip
+- python>=3.9
+- pytorch
+- requests
+- retrolab
+- scipy
+- scikit-learn
+- seaborn
+- statsmodels
+- voila
+- pip:
+  - nbopen
